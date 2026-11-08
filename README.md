@@ -33,7 +33,7 @@ Para ejecutar el programa, utilizar el siguiente comando:
 
 ## Documentación
 
-[Ver informe del Trabajo Práctico Integrador](Informe_TPI_Programacion.pdf)
+[Ver informe del TPI](Informe_TPI_Programacion.pdf)
 
 ## Video demostrativo
 

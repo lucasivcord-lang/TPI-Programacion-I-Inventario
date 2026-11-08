@@ -37,12 +37,10 @@ Para ejecutar el programa, utilizar el siguiente comando:
 
 ## Video demostrativo
 
-**Enlace:** Pendiente de incorporar.
+Ver demostración del sistema de inventario en YouTube: https://www.youtube.com/watch?v=pl4Oqqzms3s
 
 ## Autor
 
 Lucas Córdoba
 
-## Autor
 
-Lucas Córdoba

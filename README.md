@@ -33,11 +33,11 @@ Para ejecutar el programa, utilizar el siguiente comando:
 
 ## Documentación
 
-[Ver informe del TPI](Informe_TPI_Programacion.pdf)
+[Ver informe del TPI][https://github.com/lucasivcord-lang/TPI-Programacion-I-Inventario/blob/main/Informe%20TPI%20Programacion.pdf]
 
 ## Video demostrativo
 
-Ver demostración del sistema de inventario en YouTube: https://www.youtube.com/watch?v=pl4Oqqzms3s
+Ver demostración del sistema de inventario en YouTube: [https://www.youtube.com/watch?v=pl4Oqqzms3s]
 
 ## Autor
 
